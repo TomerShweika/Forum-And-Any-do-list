@@ -1,10 +1,10 @@
 # Forum-And-Any-do-list
 
-
+<br>
+<br>
 <div class="title">
     <h1>About The Project</h1>
 </div>
-<br>
 <br>
 This is a php and mysql project.<br>
 The forum built with online posts throght ajax requests.<br>
@@ -15,7 +15,6 @@ The anydo list is a beautiful List with your chores.<br>
 <div class="title">
     <h1>How to use ?</h1>
 </div>
-<br>
 <br>
 <ol>
   <li>Download the zip file.</li>
@@ -28,7 +27,6 @@ The anydo list is a beautiful List with your chores.<br>
 <div class="title">
     <h1>Protections</h1>
 </div>
-<br>
 <br>
 <ul>
   <li>This site has users and requires strongest password (at least 8 letters and one upper case letter and special letter).</li>

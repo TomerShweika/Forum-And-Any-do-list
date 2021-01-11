@@ -7,7 +7,7 @@
     $username = $_SESSION["user"];
     $databaseObj = new DatabaseInterface();
 
-    $MySQLdb = new PDO("mysql:host=127.0.0.1;dbname=forum", "root", "");
+    $MySQLdb = new PDO("mysql:host=127.0.0.1;dbname=forum", "USERNAME", "PASSWORD");//change here
     $MySQLdb->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 

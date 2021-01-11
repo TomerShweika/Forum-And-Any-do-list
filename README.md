@@ -3,7 +3,7 @@
 
 
 
-This is a php and mysql project.\n
+This is a php and mysql project.<br>
 The forum built with online posts throght ajax requests.\n
 Download the zip file.\n
 In your database import the .sql files .\n

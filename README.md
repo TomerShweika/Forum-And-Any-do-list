@@ -17,10 +17,12 @@ The anydo list is a beautiful List with your chores.<br>
 </div>
 <br>
 <br>
-Download the zip file.<br>
-In your database import the .sql files .<br>
-And change for your details where written "change here".<br>
-And thats all<br>
+<ol>
+  <li>Download the zip file.</li>
+  <li>In your database import the .sql files .</li>
+  <li>And change for your details where written "change here".</li>
+    <li>And thats all</li>
+</ol> 
 <br>
 <br>
 <div class="title">

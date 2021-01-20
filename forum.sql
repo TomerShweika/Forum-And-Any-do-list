@@ -60,7 +60,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`) VALUES
-(1, 'roman', 'A123456a'),
+(1, 'Tomer', 'A123456a'),
 (2, 'admin', 'asdAFSC!@#EFEDS!@#WREFD'),
 (3, 'l33t', '1337');
 
